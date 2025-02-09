@@ -31,9 +31,8 @@ A C# WinForms bank system for managing accounts, transactions, and users.
          connectionString="Server=YOUR_SERVER;Database=BankDB;User Id=YOUR_USERNAME;Password=YOUR_PASSWORD;"
          providerName="System.Data.SqlClient"/>
 </connectionStrings>
-
+```
 Now, the database is ready to use!
-
 
 ## Installation
 1. Clone the repository:
